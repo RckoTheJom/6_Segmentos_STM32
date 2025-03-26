@@ -1,9 +1,7 @@
 {
-	"folders": [
-		{
-			"name": "ola",
-			"path": "../OneDrive/Documentos/PlatformIO/Projects/ola"
-		}
-	],
-	"settings": {}
+    "folders": [
+        {
+            "path": "../OneDrive/Documentos/PlatformIO/Projects/ola"
+        }
+    ]
 }
